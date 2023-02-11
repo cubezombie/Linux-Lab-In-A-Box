@@ -46,6 +46,7 @@
         - rhel76-base-ks.cfg
         - rocky79-base-ks.cfg
         - centos79-base-ks.cfg
+      - iso_install_files (contains contents of iso, all necessary files to install inital system)
   
 - RPMS/Packages needed
   - tree
